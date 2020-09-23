@@ -1,0 +1,641 @@
+## intent:COVID/Case_Count
+- How many folks in Texas are infected?
+- Does the US have a confirmed COVID case?
+- how many people have contracted the virus in pennysylvania
+- How has coronavirus spread around the world?
+- How many people have covid-19 in the whole world?
+- How many people have the virus in our county
+- How many cases of the virus are there in the world?
+- has anyone died of coronavirus in my state?
+- how many cases are there in Texas?
+- How many cases of COVID-19 are in the US?
+- How many coronavirus cases are there in my area?
+- how many current cases are there in Illinois
+- How many people are sick throughout the world?
+- how many patients are infected with corona virus in collin county
+- how many people are sick in the US?
+- how many people have the virus?
+- what is the count of coronavirus infected people?
+- Does MA have a confirmed COVID case?
+- Where can I find information about covid 19 for the world?
+- Where are cases?
+- covid number in my state?
+- is anyone near me sick
+- how many ppl are infected in the us?
+- How many people total have coronavirus?
+- How many people in the world have died?
+- are people infected in my city ?
+- Are there any cases near me
+- Which countries has covid-19 been detected in?
+- how many people in texas have corona virus?
+- how many people are infected
+- How many people are infected in Illinois?
+- How many people are infected with Corona virus currently in texas?
+
+## intent:COVID/Cleaning_Disinfected
+- "All the stores are out of disinfecting wipes, what do I do?"
+- How often do I need to clean my home to prevent the spread of coronavirus?
+- How should I wash my clothes if I may have been exposed to COVID-19?
+- is lysol enough to get rid of covid virus from countertops
+- mopping products
+- What kind of disinfectant should I use?
+- Whats the difference between cleaning and disinfecting?
+- Which surfaces are most important to disinfect?
+- Should I spray myself or my kids with disinfectant?
+- What cleaning methods kill the coronavirus?
+- what cleaning regimen should I follow
+- What is the best way to clean?
+- How do I clean my home properly?
+- Does alcohol kill the coronavirus?
+- Do I need to disinfect my cell phone when I get home
+- Do I need lysol wipes?
+- Do I have to use bleach to kill coronavirus?
+- disinfectant products
+- cleaning products
+- Are there disinfectants available that can inactivate (kill) COVID-19?
+- how do i get rid of germs at my home
+
+## intent:COVID/Comparing_Illness
+- is this worse than flue
+- What is different between flu and coronavirus
+- What is the difference between COVID-19 and the flu
+- what is the difference between flu and coronavirus
+- what is the difference between the flu and coronavirus
+- What's the difference between flu and coronavirus
+- What's the difference between flu and coronavirus?
+- what's the difference between the flu and coronavirus
+- is this worse than flu
+- Is the coronavirus the same as SARS?
+- Is the coronavirus the same as MERS?
+- Is the coronavirus the same as a cold?
+- is covid the same as the flu?
+- How's the flu different from coronavirus?
+- how is the flue different from the coronavirus?
+- How is flu different from coronavirus
+- How is corona virus different than SARS?
+- how does cover-19 compare to the SARS epidemic?
+- How do flu symptoms differ from coronavirus symptoms?
+- Flu vs. COVID-19
+- flu vs covid19
+- Flu vs Coronavirus
+- is this the same as the flu?
+- Is this worse than the flu?
+- SARS vs Corona virus?
+
+## intent:COVID/Description
+- where did corona virus start from?
+- where did covid come from?
+- Where did the coronavirus come from?
+- what is the Corona Virus
+- what is novel coronavirus?
+- what is covid19
+- What is COVID?
+- what is covid-19
+- What is COVID-19?
+- What is covid
+- What is Corona virus?
+- what is the coronavirus?
+- What is corona virus
+- What does covid stand for?
+- origin of coronavirus
+- what is the corona virus?
+- Is covid a disease?
+- I heard about covid what is it?
+- How dangerous is this?
+- Has the cause of COVID-19 been identified?
+- covid what is it
+- Where can I find more information about covid 19?
+- Where can I learn more about covid?
+
+## intent:COVID/Event_Shutdowns
+- Are the museums closed?
+- When will the NCAA championships be held?
+- When will the NHL return?
+- Why is the government shutting down my event?
+- Will I get a refund for a ticket I purchased?
+- Are churches closed
+- Are events being shut down?
+- Are groups of people allowed to meet?
+- can i go to church
+- can I still attend a conference
+- can my church still meet
+- event shutdowns
+- events and large gatherings
+- How do I know if my concert is cancelled?
+- Is it okay to partake in sports activities?
+- When will the major sports leagues start playing again?
+- When are sports going to start back up?
+- What sports are being cancelled?
+- What is the maximum number of people allowed to meet right now?
+- Should I feel safe going to the movies?
+- public events cancelled
+
+## intent:COVID/Govt_Emergency
+- A national emergency was declared in the United States. What does this mean?
+- When will the national emergency end?
+- What measures is the US taking against covid-19?
+- What measurements is the government taking?
+- What is the Government doing about Covid?
+- What is a national emergency?
+- What has our government already done to reduce the risk of spreading the disease
+- What does a state of emergency mean?
+- What are the crisis measures currently in place?
+- Tell me about the Coronavirus response
+- Is there a nationwide curfew?
+- Is the US well prepared for covid 19
+- is the government ready for covid
+- Is the government legally allowed to close shops and restaurants?
+- How long will the state of emergency last?
+- How long has the national emergency been in place?
+- How is the US government addressing the spread of covid-19?
+- How is the United States prepared for the spread of covid 19?
+- How does the state of emergency affect me?
+- Can the government close public places?
+
+## intent:COVID/Illness_Length
+- Incubation period of coronavirus?
+- How long will I feel terrible?
+- How long is the incubation period?
+- How long is the incubation period of covid 19?
+- how long is the incubation period for covid-19
+- how long does the virus last?
+- how long does the virus last
+- How long does the disease last?
+- How long does the coronavirus last?
+- how long does the corona virus last?
+- how long does it take for the virus to run through my system?
+- how long does it last?
+- how long does it last
+- How long does COVID-19 last?
+- how long does coronavirus last
+- how long do symptoms take to develop?
+- How long do I need to quarantine before I no longer can transmit the virus?
+- How long before I get symptoms?
+- how long can I expect to be sick?
+- What is the incubation period of covid?
+- How long before I experience covid-19 symptoms?
+- How long are people infected with COVID-19 before they are symptomatic?
+
+## intent:COVID/Masks_Availability
+- Why aren't there respirators?
+- Why aren't there enough masks and respirators?
+- why aren't any masks available?
+- Why are there no masks and respirators in pharmacies?
+- Why are no masks or respirators available anywhere?
+- Who has masks and respirators?
+- Where do people get protective masks or disinfectants?
+- Where can I get masks?
+- Where are face masks available?
+- When will respirators and masks be finally sold?
+- When will masks be available?
+- When will masks be available at retail stores? They are not yet and we can get infected on public - transport before they are.
+- When can I buy a mask?
+- When can I buy a mask at a pharmacy?
+- I'd like a respirator
+- How is it possible that the state does not have enough masks and respirators?
+- How can I get a mask?
+- Help me get a respirator
+- Are there stores with protective face masks?
+- Why can't I get or find a mask or a respirator anywhere?
+
+## intent:COVID/Masks_Protection
+- Can I go out without a respirator?
+- Can a mask help me?
+- Am I supposed to wear a face covering?
+- Do I need to wear a face mask?
+- Does a mask or respirator help prevent covid infection?
+- What is a cloth face covering and how does it help?
+- should I wear a respirator?
+- Should I wear a mask so I don't get infected?
+- Should I wear a mask or a respirator?
+- Should I have something on my face when I go out?
+- Should I cover my face in public?
+- When should I wear a respirator?
+- Will a respirator help me?
+- Do I have to wear a respirator?
+- When should I wear a mask?
+- Does the government recommend wearing masks?
+- I often travel by public transport. Should I wear a respirator?
+- Should I buy a respirator?
+- Does the CDC say to cover your face?
+- Do I have to wear a mask when I'm outside or taking a walk?
+
+## intent:COVID/Paid_Leave
+- How much do I get paid for sick leave
+- will paid sick leave be available for Uber drivers?
+- Will my employer give me paid leave if I have coronavirus?
+- Will I get paid leave?
+- Will government employees be paid during sick leave?
+- who is eligible to get paid sick leave
+- who is able to get paid sick leave
+- When am I entitled to take paid sick leave?
+- What if I don't have paid sick leave?
+- what if I don't have paid sick leave
+- tell me about paid sick leave
+- paid sick leave
+- My job will not let me work from home. Do I qualify for paid sick leave?
+- If I get sick will I continue to get paid?
+- "I work at a grocery store but my childcare is closed, is anything being setup to handle this?"
+- How much paid sick leave will I get if I am contracted with the virus?
+- will Texas provide paid sick leave
+- how long can i get paid sick leave
+- duration of paid sick leave?
+- does my workplace offer paid sick leave?
+- do I get paid sick leave
+- do i get paid leave time
+- Can i still get paid sick leave for 14 days if i get corona
+- can i get paid sick leave
+- am I eligible for sick leave
+- am I eligible for paid sick leave
+- Will I get paid if I have COVID-19?
+
+## intent:COVID/Prevention
+- precautionary measures
+- Is it even possible to avoid the virus?
+- How to Prevent the Spread of the Virus
+- How to prevent covid infection?
+- how to I prevent myself from getting sick?
+- How to avoid catching covid-19.
+- How do you protect yourself?
+- how do I stay safe
+- How do I protect myself?
+- how do i prevent catching the disease
+- how do I ensure my family is safe?
+- How do I avoid covid-19?
+- How do I avoid Coronavirus
+- How can I protect my family from the spread of coronavirus?
+- prevent the spread of the virus
+- Should I avoid people?
+- What are some good tips for prevention?
+- what can I do to avoid getting sick?
+- What can I do to not get sick?
+- what can i do to prevent COIVD?
+- what can i do to stay safe
+- what can i do to prevent getting coronavirus?
+- What is effective prevention against covid?
+- What is the best prevention?
+- what is the best way to prevent coronavirus
+- What is the most effective prevention?
+- What is the risk of my child becoming sick with COVID-19?
+- What’s the best way to prevent coronavirus?
+- What will help me prevent covid infection?
+- What should I do to stay safe?
+- what should i do to contain the spread of the virus
+- What should I do to avoid getting sick?
+- What rules should I follow to prevent covid illness?
+- how can i prevent coronavirus
+- how can I not get sick
+- How can I avoid getting sick?
+- Does the sun kill coronavirus?
+- Does eating garlic help?
+- Can I protect myself by drinking alcohol
+
+## intent:COVID/Quarantine
+- How long do I have to stay in quarantine?
+- What should I do in quarantine?
+- What should I do if I have been quarantined?
+- What if I break quarantine?
+- What exactly is home quarantine?
+- What can I do when I'm in quarantine?
+- Is anyone checking for compliance with those ordered to quarantine?
+- "If infected, how long should individuals self-quarantine?"
+- "if i have symptoms, how long should i quarantine for?"
+- A colleague is breaking quarantine what should I do?
+- If I have Covid how long do I have to self isolate
+- how long will we have to self quarantine?
+- How long should you self-quarantine?
+- How long should I quarantine?
+- How long should I be in quarantine?
+- How long does it take to quarantine?
+- Who is responsible for quarantined people?
+- How long do I have to self isolate if I have tested positive?
+- How long do I have to be stuck at home?
+- How does Quarantine work?
+- Are people in quarantine checked?
+
+## intent:COVID/School_shutdown
+- when can my kids go back to college?
+- when can my kid go back to high school
+- when can my kid go back school
+- when can my high school senior go back to school
+- ARE COLLEGES OPEN
+- Are my children's schools closed?
+- Are my schools closed
+- are my schools closed?
+- are schools closed
+- are schools closed ?
+- Will there be school in the summer?
+- Will there be exams in the summer?
+- Will students still graduate this year?
+- when can i send my kids back to school
+- when can kid go back to school
+- when can kids return to school
+- Will graduations be pushed back?
+- Will classes be moved to summer?
+- Which schools are closed?
+- where can my kids go back to school
+- When will the schools open?
+- When will schools close?
+- when will my kids school reopen
+- When will my kids be back in school?
+- When will my good go back to school?
+- When is school back in session?
+- When does covid vacation end?
+- when do the children go back to school
+- when can my kids go back to school
+- when can my kids go back to high school in 78712
+- when can my kids back school
+- when can my kid go back to school
+- When can my kid go back to college
+- are schools closed in my area
+- are schools closed?
+- are schools in my area closed
+- are schools open
+- Are schools open?
+- Are schools shut down?
+- Can my child go to school?
+- can my kids return to high school
+- How can I get the latest news on my school closure?
+- How will the shutdown impact my child's attendance records?
+- I live in 78709. when will my kids high school reopen?
+- Is graduation delayed?
+- Is HS 123 open?
+- is my kids school closed
+- Is my kids school closed?
+- is my school closed
+- Is my school closed?
+- is the school closed
+- Should my child stay home from school?
+- What does the ordered school closure mean for report cards?
+- What happens after the ordered three-week closure period ends?
+- what schools are closed
+- When can I return to school?
+
+## intent:COVID/See_Doctor
+- "I'm coughing, should I go to the doctor?"
+- "If I think I have COVID-19, should I see my Dr?"
+- should i go to the doctor now
+- should i go to the ER if i have a cough
+- Should I go to the hospital
+- Should I make an appointment with my Dr?
+- Should I see a doctor if I am not feeling well?
+- Should I see a doctor if I am showing the symptoms?
+- when did I need to call the doctor?
+- When do i call a doctor
+- when should I call a doctor
+- when should I go to a doctor?
+- When should I go to the doctor?
+- Who should I call if I have symptoms?
+- Where should I go if I suspect I have coronavirus?
+- When should I go to the hospital?
+- can I go to the hospital?
+- Do I have to go to the hospital if I get COVID
+- how do i know whether to go to the doctor?
+- I am coughing.  Should I call my doctor?
+- "I have a cough but am breathing fine, should I go to the hospital or wait?"
+- i have a fever. should i go to the hospital?
+- I suspect I have the virus who can I call?
+
+## intent:COVID/Shopping_Groceries
+- can i go to the grocery store
+- Can I go to the grocery store?
+- can i go to the store.
+- are grocery stores still open
+- Am I allowed to go to the grocery store?
+- can I still go grocery shopping
+- Can I still go to the grocery store?
+- can I go to the grocery store or will I catch corona
+- can we go to the store?
+- How should I get groceries?
+- I am in a high risk group. Can I buy my own food and medicine?
+- I need medicine. Can I go to the store?
+- is it ok for me to go to the grocery store
+- Is it okay to go grocery shopping?
+- Is it risky to buy food at the store?
+- Is it safe to go out to buy food and staples?
+- Is it safe to go to Costco?
+- can I go to grocery stores
+- what grocery store in keller is open?
+- Is it safe to go to the grocery store?
+
+## intent:COVID/Symptoms
+- "I have headache and sore throat, what should I do ?"
+- Will my head hurt if I have covid 19?
+- Will I throw up if I have the virus?
+- how do i know if im sick
+- am i sick
+- Do I have coronavirus?
+- do I have covid?
+- Hi what are the symptoms?
+- how can one know if they have been infected?
+- How do I know if I am infected with Covid
+- how do i know if i got this
+- how do i know if I got this thing
+- how do i know if i have this issue
+- how do I know if i have this thing
+- How do I know if I'm sick with covid-19?
+- how to distinguish it from a common cold.
+- I can not breath very well
+- I feel congested and have a fever
+- I have a burning feeling in my chest
+- I have a fever
+- i have a sore throat
+- I have a temperature and cough. Do I have the coronavirus?
+- I have an irritating cough
+- I have illness symptoms
+- I have sore throat
+- "I have sore throat, is it coronavirus?"
+- I have traveled recently. What do I do?
+- I think I feel symptoms of the disease
+- I think I have covid 19
+- I think I might have the virus.
+- I think i'm infected
+- I'm afraid I have covid-19
+- I'm having respiratory problems
+- If I only have a sore throat is it Coronavirus?
+- Is a headache a symptom of the coronavirus?
+- Is rash a symptom of covid-19?
+- my child has a high fever and is coughing. what should I do?
+- My child is coughing. Should I be worried?
+- my eyes are burning
+- My girlfriend has symptoms of covid-19
+- My husband has coronavirus symptoms
+- my throat and head hurt
+- my throat hurts and I have a headache as well
+- rhinitis
+- should I get tested if I have a cough?
+- Symptoms
+- tell me about the symptoms
+- temperature
+- Wet cough
+- what are covid 19 symptoms
+- what are my symptoms
+- what are symptoms
+- what are symptoms of coronavirus
+- What are symptoms?
+- what are symtoms?
+- what are the common symptoms
+- what are the covid symtoms
+- what are the COVID-19 symptoms?
+- what are the early symptoms of covid-19?
+- What are the first symptoms for COVID?
+- what are the most common symptoms of COVID?
+- what are the symptoms
+- what are the symptoms I should look out for
+- what are the symptoms of coronavirus
+- what are the symptoms of COVID-19
+- Will I poop a lot if I have the virus?
+- What to do if I think I have covid?
+- what symptoms are typical with this disease
+- what is the first symptom
+- what are the types of symptoms
+- What are the symptoms?
+- What are the symptoms of the disease?
+- What are the symptoms of covid?
+
+## intent:COVID/Testing_Information
+- Is it possible to detect the disease during the incubation period?
+- Is it possible to test for covid 19 during the incubation period?
+- Is the covid test able to detect infection even during the incubation period?
+- is there a coronavirus test kit
+- Is there a test for the coronavirus
+- is there a test kit for coronavirus
+- Is there a test kit for the coronavirus?
+- is there test kit for coronavirus
+- my friend has it should i get tested
+- ok - I've got enough of those that I think I need to get tested.
+- should i get tested if I do not have symptoms but think I've been exposed?
+- Should we get tested if we only have symptoms
+- testing travelers?
+- What is the test to detect covid 19?
+- When is the coronavirus test able to detect the disease?
+- Can I get tested at home?
+- can I get tested quickly?
+- Can I test myself?
+- coronavirus test kit
+- do i need to get tested?
+- "I have a fever, should I get tested?"
+- I have symptoms. Should I get tested?
+
+## intent:COVID/Transmission
+- How do I catch the virus?
+- how does covid-19 spread to others
+- How does the infection spread
+- how does the virus spread
+- How is covid transmitted?
+- How is COVID-19 spread?
+- how many people are infected in the United States
+- How would I catch it?
+- How would I get covid?
+- Is Coronavirus contagious?
+- is covid transmissible from animals?
+- is covid-19 contagious?
+- is covid19 contagious?
+- is it contagious
+- Is it possible to get infected from the infected person the next day?
+- number of infected
+- spreading covid to others
+- When does a person become contagious?
+- does the virus spread thru surfaces
+- how can covid be transmitted
+- How can I get infected?
+- How contagious is COVID-19?
+- how does covid-19 spread
+- how does coronavirus spread?
+- how does covid spread
+- How does covid spread?
+
+## intent:COVID/Travel_Restrictions
+- Can I travel in the current emergency situation?
+- Can I visit relatives in another state?
+- What if I urgently need to take a flight?
+- What counts as travel?
+- should i travel?
+- Should I change my travel plans?
+- Should I cancel my flight to Denver?
+- Is it safe to fly to Seattle?
+- Is driving considered travel?
+- Is commercial air travel suspended too?
+- I traveled to Italy recently. What do I do?
+- I just travelled. What do I do?
+- do i need to stay home
+- Do I need a doctor's note to travel?
+- airline travel
+- Are there any travel restrictions in place yet?
+- Can I travel for work?
+- Can I travel?
+- Can I travel out of the country?
+- can I travel to Arkansas
+
+## intent:COVID/Treatment_Info
+- What medicine should I take for COVID 19
+- what medicine work best for treatment ?
+- what medicine should I be taking for Covid 19
+- can medication reduce fever caused by a possible covid infection?
+- How can I lower my temperature if I have the coronavirus?
+- How do I treat coronavirus?
+- How do we treat covid?
+- How to treat covid?
+- I heard about a medication for coronavirus treatment
+- Is there a medication that can help me feel better?
+- Is there a medication to reduce temperature with covid-19?
+- What is the treatment for covid-19?
+- What is the treatment for this disease?
+- Medication that helps with coronavirus
+- what kind of medicine should I take
+- What medicine should I avoid taking if I have coronavirus
+- Can medication be used to reduce fever?
+- Can I take ibuprofen if I have corona virus?
+- Can I lower my temperature using medication?
+- best vitamin to take
+- Should I take Theraflu?
+- what medicines work best
+- what medicines should I take if I have coronavirus
+
+## intent:COVID/Treatment_Vaccine
+- Is there a cure for covid-19?
+- is there a vaccine for Covid-19?
+- Is there a vaccine for the coronavirus?
+- Is there a vaccine for Covid-19
+- is there a vaccine for covid
+- Is there a vaccine for coronavirus?
+- Is there a vaccine for corona virus
+- Is there a magical cure for covid-19?
+- Is there a vaccine for this
+- Is there a vaccine?
+- What's the status of a vaccine?
+- When can I expect drugs for the virus?
+- When will covid-19 medicines be ready?
+- Why isn't there a vaccine yet?
+- Covid-19 vaccine?
+- How long does it take to develop a vaccine?
+- How long will it be until there is a vaccine?
+- Is it possible to estimate how long it will take to administer the drug / vaccine to people?
+- Is the covid vaccine ready?
+- Is there a covid vaccine?
+- Is there a cure for covid 19?
+
+## intent:COVID/Unemployment_Application
+- how long does it take to get unemployment
+- how to apply for unemployment
+- how to I apply for unemployment
+- i can't go to work.  can i get unemployment?
+- I have a question about unemployment
+- "I just got laid off, now what?"
+- i need to apply for unemployment.  how do I do it
+- apply for unemployment
+- How am I gonna pay my bills if I don't have a job anymore?
+- how can i apply for unemployment during this outbreak?
+- how can I apply for unemployment?
+- how do I apply for unemployment
+- how do I apply for unemployment because of covid-19
+- where can I apply for unemployment
+- What if I got furloughed?
+- What happens if I lose my job?
+- What do I do if I don't have unemployment insurance?
+- "If I got furloughed, do I qualify for unemployment?"
+- what can I do if I lose my job
+- what can I do if I lose my job?
+- how do I apply for unemployment benefits due to Covid-19?
+- how do I apply for unemployment benefits?
+- how long can I get unemployment?

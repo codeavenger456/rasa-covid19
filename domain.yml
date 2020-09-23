@@ -1,0 +1,51 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- chitchat
+- out_of_scope
+- bye
+- thank
+- COVID
+- insult:
+    triggers: utter_respond_insult
+responses:
+  utter_greet:
+  - text: Hey! I am Videl, your virtual pal. 😊
+  utter_how_are_you:
+  - text: How are you?
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on! 😊
+  utter_goodbye:
+  - text: Bye 👋
+  utter_iamabot:
+  - text: Beep! Boop! I am Videl, your virtual pal. I am here to entertain you! 🤖
+  utter_respond_insult:
+  - text: That's not very nice... 😡
+
+entities:
+  - name
+actions:
+- respond_chitchat
+- respond_out_of_scope
+- respond_covid
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- utter_respond_insult
+- action_freestyle
