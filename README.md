@@ -17,6 +17,12 @@ Once the installation is complete, activate the newly created environment by usi
 conda activate rasa-covid19
 ```
 
+Unfortunately, not all dependencies can be installed that way. We need to run one additional line in order to make sure everything is installed in order to run `ConveRT` :
+
+```
+pip install rasa[convert]
+```
+
 ## Train the Rasa Model
 
 To train the bot, run the following line from within the newly created environment

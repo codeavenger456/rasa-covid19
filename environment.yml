@@ -4,3 +4,4 @@ dependencies:
   - pip
   - pip:
     - rasa
+    - rasa[convert]
