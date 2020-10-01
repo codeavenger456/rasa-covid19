@@ -12,6 +12,7 @@ intents:
 - bye
 - thank
 - COVID
+- ask_covid_cases
 - insult:
     triggers: utter_respond_insult
 responses:
@@ -30,6 +31,7 @@ responses:
 
 entities:
   - name
+  - country
 actions:
 - respond_chitchat
 - respond_out_of_scope
@@ -38,3 +40,4 @@ actions:
 - utter_goodbye
 - utter_iamabot
 - utter_respond_insult
+- action_get_covid_cases

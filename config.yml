@@ -2,7 +2,8 @@
 # https://rasa.com/docs/rasa/nlu/components/
 language: en
 pipeline:
-  - name: ConveRTTokenizer
+  # - name: ConveRTTokenizer
+  - name: WhitespaceTokenizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer
@@ -10,16 +11,19 @@ pipeline:
     analyzer: "char_wb"
     min_ngram: 1
     max_ngram: 4
-  - name: ConveRTFeaturizer
+  # - name: ConveRTFeaturizer
   - name: DIETClassifier
-    epochs: 100
+    epochs: 10
   - name: EntitySynonymMapper
   - name: "ResponseSelector"
     retrieval_intent: chitchat
+    epochs: 10
   - name: "ResponseSelector"
     retrieval_intent: out_of_scope
+    epochs: 10
   - name: "ResponseSelector"
     retrieval_intent: COVID
+    epochs: 10
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/

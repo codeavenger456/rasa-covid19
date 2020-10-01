@@ -12,6 +12,10 @@
   - utter_iamabot
   - utter_ask_me_anything
 
+## number of covid cases per country
+* ask_covid_cases
+  - action_get_covid_cases
+
 ## chitchat
 * chitchat
   - respond_chitchat

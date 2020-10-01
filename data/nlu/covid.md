@@ -1,36 +1,35 @@
-## intent:COVID/Case_Count
-- How many folks in Texas are infected?
-- Does the US have a confirmed COVID case?
-- how many people have contracted the virus in pennysylvania
-- How has coronavirus spread around the world?
-- How many people have covid-19 in the whole world?
-- How many people have the virus in our county
-- How many cases of the virus are there in the world?
-- has anyone died of coronavirus in my state?
-- how many cases are there in Texas?
-- How many cases of COVID-19 are in the US?
-- How many coronavirus cases are there in my area?
-- how many current cases are there in Illinois
-- How many people are sick throughout the world?
-- how many patients are infected with corona virus in collin county
-- how many people are sick in the US?
-- how many people have the virus?
-- what is the count of coronavirus infected people?
-- Does MA have a confirmed COVID case?
-- Where can I find information about covid 19 for the world?
-- Where are cases?
-- covid number in my state?
-- is anyone near me sick
-- how many ppl are infected in the us?
-- How many people total have coronavirus?
-- How many people in the world have died?
-- are people infected in my city ?
-- Are there any cases near me
-- Which countries has covid-19 been detected in?
-- how many people in texas have corona virus?
-- how many people are infected
-- How many people are infected in Illinois?
-- How many people are infected with Corona virus currently in texas?
+## lookup:country
+data/nlu/countries.txt
+
+## intent:ask_covid_cases
+- How many folks in [Uganda](country) are infected?
+- Does the [US](country) have a confirmed COVID case?
+- how many people have contracted the virus in [Canada](country)
+- How has coronavirus spread in [Japan](country)?
+- How many people have covid-19 in the [United States](country)?
+- How many people have the virus in [Mexico](country)
+- How many cases of the virus are there in [Nicaragua](country)?
+- has anyone died of coronavirus in [France](country)?
+- how many cases are there in [England](country)?
+- How many cases of COVID-19 are in the [US](country)?
+- How many coronavirus cases are there in [Spain](country)?
+- how many current cases are there in [Italy](country)
+- How many people are sick in [Sweden](country)?
+- how many patients are infected with corona virus in [China](country)
+- how many people are sick in [russia](country)?
+- how many people have the virus in [vietnam](country)?
+- what is the count of coronavirus infected people in [costa rica](country)?
+- Does [canada](country) have a confirmed COVID case?
+- Where can I find information about covid 19 for [israel](country)?
+- covid number in [brasil](country)?
+- is anyone sick in [portugal](country)
+- how many ppl are infected in the [us]{"entity": "country", "value": "united states"}?
+- How many people total have coronavirus in [ukraine](country)?
+- are people infected in [argentina](country)?
+- Are there any cases in [algeria](country)
+- how many people in [australia](country) have corona virus?
+- How many people are infected in [croatia](country)?
+- How many people are infected with Corona virus currently in [south africa](country)?
 
 ## intent:COVID/Cleaning_Disinfected
 - "All the stores are out of disinfecting wipes, what do I do?"

@@ -4,24 +4,35 @@
 # See this guide on how to implement these action:
 # https://rasa.com/docs/rasa/core/actions/#custom-actions/
 
+import json
+import requests
 
-# This is a simple example for a custom action which utters "Hello World!"
+from typing import Any, Text, Dict, List
 
-# from typing import Any, Text, Dict, List
-#
-# from rasa_sdk import Action, Tracker
-# from rasa_sdk.executor import CollectingDispatcher
-#
-#
-# class ActionHelloWorld(Action):
-#
-#     def name(self) -> Text:
-#         return "action_hello_world"
-#
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-#
-#         dispatcher.utter_message(text="Hello World!")
-#
-#         return []
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+
+#########################################################################
+# COVID-19 API Available Here
+# https://documenter.getpostman.com/view/10808728/SzS8rjbc
+#########################################################################
+
+
+class ActionGetCovidCases(Action):
+
+    def name(self) -> Text:
+        return "action_get_covid_cases"
+
+    def run(self, dispatcher: CollectingDispatcher, tracker: Tracker, domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        country = tracker.latest_message["entities"][0]["value"]
+        print(country)
+
+        response = requests.get(f'https://api.covid19api.com/total/country/{country.lower()}/status/confirmed')
+        response_json = json.loads(response.content)
+        num_cases = response_json[-1]["Cases"]
+        print(response.status_code)
+
+        dispatcher.utter_message(text=f"There are {num_cases} total confirmed cases of COVID-19 in {country}.")
+
+        return []
