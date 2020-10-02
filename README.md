@@ -34,10 +34,6 @@ rasa train
 This will train the model using the data available in the `data` directory for both NLU and dialogue management, using the modeling pipeline you defined in the `config.yml` file.
 
 
-## TODO
-* [ ] Query https://api.covid19api.com/ to get stats about COVID-19
-* [ ] Query API to get testing locations near me
-
 ## Other Interesting COVID-19 Bots
 
 * Nora : https://rasa.com/showcase/norabot
