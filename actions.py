@@ -28,11 +28,11 @@ class ActionGetCovidCases(Action):
         country = tracker.latest_message["entities"][0]["value"]
         print(country)
 
-        response = requests.get(f'https://api.covid19api.com/total/country/{country.lower()}/status/confirmed')
+        response = requests.get('https://api.covid19api.com/total/country/{}/status/confirmed'.format(country.lower()))
         response_json = json.loads(response.content)
         num_cases = response_json[-1]["Cases"]
         print(response.status_code)
 
-        dispatcher.utter_message(text=f"There are {num_cases} total confirmed cases of COVID-19 in {country}.")
+        dispatcher.utter_message(text="There are {} total confirmed cases of COVID-19 in {}.".format(num_cases, country))
 
         return []

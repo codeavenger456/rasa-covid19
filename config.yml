@@ -2,8 +2,11 @@
 # https://rasa.com/docs/rasa/nlu/components/
 language: en
 pipeline:
+  - name: "SpacyNLP"
+    model: "en_core_web_md"
+    case_sensitive: False
   # - name: ConveRTTokenizer
-  - name: WhitespaceTokenizer
+  - name: SpacyTokenizer
   - name: RegexFeaturizer
   - name: LexicalSyntacticFeaturizer
   - name: CountVectorsFeaturizer
@@ -12,18 +15,19 @@ pipeline:
     min_ngram: 1
     max_ngram: 4
   # - name: ConveRTFeaturizer
+  - name: SpacyFeaturizer
   - name: DIETClassifier
-    epochs: 10
+    epochs: 20
   - name: EntitySynonymMapper
   - name: "ResponseSelector"
     retrieval_intent: chitchat
-    epochs: 10
+    epochs: 20
   - name: "ResponseSelector"
     retrieval_intent: out_of_scope
-    epochs: 10
+    epochs: 20
   - name: "ResponseSelector"
     retrieval_intent: COVID
-    epochs: 10
+    epochs: 20
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
